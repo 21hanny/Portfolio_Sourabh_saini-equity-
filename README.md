@@ -21,6 +21,9 @@ My portfolio is diversified across structurally important and fast-growing segme
 
 
 
+
+
+
 **# # Performance Highlights**
 
 Portfolio Performance (Aug 2023 – Dec 2025): +145.74% XIRR
