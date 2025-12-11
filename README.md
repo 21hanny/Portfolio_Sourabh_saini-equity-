@@ -45,6 +45,9 @@ vs. NIFTY Smallcap 250: +51.08%
 → Outperformance: +94.66 pp
 → Multiple: 2.85x
 
+
+
+
 **### Investment Strategy & Approach**
 
 I focus on identifying companies that demonstrate:
