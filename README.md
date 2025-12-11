@@ -18,6 +18,9 @@ My portfolio is diversified across structurally important and fast-growing segme
 - Selective niche additions:Cloud Computing (SaaS), Semiconductor
 
 
+
+
+
 **#Performance Highlights**
 
 Portfolio Performance (Aug 2023 – Dec 2025): +145.74% XIRR
