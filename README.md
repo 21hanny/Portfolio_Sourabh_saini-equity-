@@ -1,4 +1,4 @@
-** # 📊 Portfolio — Sourabh Saini (Equity)**
+# 📊 Portfolio — Sourabh Saini (Equity)
 
 Over the past three years, I’ve built an equity portfolio that has delivered a 145% XIRR, driven by early positioning, disciplined capital allocation, and more than two years of rigorous sector-level research across India’s evolving industries.
 
