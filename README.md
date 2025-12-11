@@ -2,35 +2,23 @@
 
 Over the past three years, I’ve built an equity portfolio that has delivered a 145% XIRR, driven by early positioning, disciplined capital allocation, and more than two years of rigorous sector-level research across India’s evolving industries.
 
-Sector Allocation & Investment Themes
+# Sector Allocation & Investment Themes
 
 My portfolio is diversified across structurally important and fast-growing segments:
 
-Pharmaceuticals
+- Pharmaceuticals
+- Defence & Defence Electronics
+- Fintech
+- Energy (Traditional & Clean)
+- Retail
+- Automotive / EV-linked
+- Renewable Energy
+- PSU Bank Turnarounds
+- Insurance (Private & Public)
+- Selective niche additions:Cloud Computing (SaaS), Semiconductor
 
-Defence & Defence Electronics
 
-Fintech
-
-Energy (Traditional & Clean)
-
-Retail
-
-Automotive / EV-linked
-
-Renewable Energy
-
-PSU Bank Turnarounds
-
-Insurance (Private & Public)
-
-Selective niche additions:
-
-Cloud Computing (SaaS)
-
-Semiconductor Manufacturing
-
-Performance Highlights
+#Performance Highlights
 Portfolio Performance (Aug 2023 – Dec 2025): +145.74% XIRR
 Benchmark Comparison
 
