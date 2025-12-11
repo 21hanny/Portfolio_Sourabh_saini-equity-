@@ -45,19 +45,15 @@ vs. NIFTY Smallcap 250: +51.08%
 → Outperformance: +94.66 pp
 → Multiple: 2.85x
 
-Investment Strategy & Approach
+**### Investment Strategy & Approach**
 
 I focus on identifying companies that demonstrate:
 
-Strong fundamentals and balance sheet quality
-
-High margins and sustainable profitability
-
-Market leadership or monopoly-like positioning
-(e.g., Dixon Technologies, Force Motors)
-
-Exposure to sectors with long-term structural tailwinds
-
-Consistent high CAGR potential
+- Strong fundamentals and balance sheet quality
+- High margins and sustainable profitability
+- Market leadership or monopoly-like positioning
+- (e.g., Dixon Technologies, Force Motors)
+- Exposure to sectors with long-term structural tailwinds
+- Consistent high CAGR potential
 
 My approach is rooted in deep fundamental research, data-driven thesis building, and early identification of sector inflection points—supported by disciplined risk management and continuous monitoring.
